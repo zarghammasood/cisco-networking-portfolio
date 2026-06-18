@@ -14,7 +14,7 @@ This lab demonstrates a basic home network built in Cisco Packet Tracer. The net
 
 ## Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](/screenshots/Topology.png)
 
 ## Devices Used
 
